@@ -1,0 +1,12 @@
+# Ignore compiled Java classes
+build/
+bin/
+*.class
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment and database credentials
+db.properties
+*.envs
